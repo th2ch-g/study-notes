@@ -10,6 +10,8 @@ Study notes for me
   - http://www.eccse.kobe-u.ac.jp/assets/images/distance_learning/life_science4/1805c332d8393bdb4c7a4e955ebae56fc48165dd.pdf
 - Review: FFM, OFLOOD, PaCS-MD, TBSA
   - https://www.jstage.jst.go.jp/article/jccj/17/1/17_2017-0055/_pdf/-char/ja 
+-  $\Delta G$: Free energy calculation
+   -  https://www.jstage.jst.go.jp/article/mssj/17/2/17_83/_pdf/-char/ja
 - Relaxation mode analysis
   - http://computics-material.jp/files/symposium/20130708/abstract/poster/P24_Mitsutake_abstract.pdf
 - 祖先型設計法
