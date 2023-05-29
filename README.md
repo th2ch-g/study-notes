@@ -16,6 +16,11 @@ Study notes for me
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
 - tICA
   - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
+- Neural Network Potential
+  - https://tech.preferred.jp/ja/blog/free-energy-calculation-using-nnp/
+  - https://www.biorxiv.org/content/10.1101/2020.07.29.227959v1
+  - https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap
+
 
 
 ## Papers

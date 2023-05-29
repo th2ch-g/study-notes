@@ -24,6 +24,11 @@
 - Genome assembly of Eutrema salsugineum
   -  https://doi.org/10.3389/fpls.2013.00046
 
+## Books
+- わさびの日本史
+  - https://www.amazon.co.jp/%E3%82%8F%E3%81%95%E3%81%B3%E3%81%AE%E6%97%A5%E6%9C%AC%E5%8F%B2-%E5%B1%B1%E6%A0%B9-%E4%BA%AC%E5%AD%90/dp/4829972335/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3MS7ZIMHE0MB9&keywords=%E3%82%8F%E3%81%95%E3%81%B3+%E6%97%A5%E6%9C%AC%E5%8F%B2&qid=1685328115&sprefix=%E3%82%8F%E3%81%95%E3%81%B3+%E6%97%A5%E6%9C%AC%E5%8F%B2%2Caps%2C194&sr=8-1
+- 
+
 ## Collaborator
 - https://twitter.com/wabisabitsuzuri
 - https://www1.gifu-u.ac.jp/~kyamane/
