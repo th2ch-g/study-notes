@@ -47,6 +47,8 @@ Study notes for me
 - GROMACS
   - Tutorials
     - http://www.mdtutorials.com/gmx/
+  - Development story
+    - https://www.pssj.jp/archives/essay/Es_07/Es_07.html
 - Uniprot
   - Align
     - https://www.uniprot.org/align
