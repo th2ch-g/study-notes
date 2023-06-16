@@ -27,10 +27,16 @@ Study notes for me
 ## Papers
 - AlphaFill
   - https://doi.org/10.1038/s41592-022-01685-y
-- A2A
-  - https://molpharm.aspetjournals.org/content/early/2023/03/10/molpharm.122.000633
-- mGlu1 allosteric modulator
-  - https://www.science.org/doi/10.1126/science.1249489
+- GPCR
+  - ICL
+    - ICL3 regulates activation and inactivation under dynamic equilibrium
+      - https://doi.org/10.1038/s41586-023-05789-z
+  - A2A
+    - Crystallography of A2A with KW6356 and istradefylline
+      - https://molpharm.aspetjournals.org/content/early/2023/03/10/molpharm.122.000633
+  - mGLu1
+    - mGlu1 allosteric modulator
+      - https://www.science.org/doi/10.1126/science.1249489
 - Review: GPCR
   - https://doi.org/10.1038/s41594-017-0011-7
 - Corona Virus inhibitor
