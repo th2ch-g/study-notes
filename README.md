@@ -3,8 +3,11 @@ Study notes for me
 
 # Molecular simulation
 ## Useful information
-- MD basic
-  - http://www.eccse.kobe-u.ac.jp/assets/images/distance_learning/life_science4/1805c332d8393bdb4c7a4e955ebae56fc48165dd.pdf
+- MD Overview
+  - 横市
+    - http://www.eccse.kobe-u.ac.jp/assets/images/distance_learning/life_science4/1805c332d8393bdb4c7a4e955ebae56fc48165dd.pdf
+  - 分子シミュレーションノート
+    - https://masatakaym.github.io/Molecular-Simulation/main.pdf
 - Review: FFM, OFLOOD, PaCS-MD, TBSA
   - https://www.jstage.jst.go.jp/article/jccj/17/1/17_2017-0055/_pdf/-char/ja 
 - Review: Protein Language Model
