@@ -12,13 +12,13 @@ Study notes for me
   - https://www.jstage.jst.go.jp/article/jccj/17/1/17_2017-0055/_pdf/-char/ja 
 - Review: Protein Language Model
   - https://doi.org/10.11234/jsbibr.2023.1
--  $\Delta G$: Free energy calculation
+-  Review: Free energy calculation
    -  https://www.jstage.jst.go.jp/article/mssj/17/2/17_83/_pdf/-char/ja
-- Relaxation mode analysis
+- RMA: Relaxation mode analysis
   - http://computics-material.jp/files/symposium/20130708/abstract/poster/P24_Mitsutake_abstract.pdf
-- 祖先型設計法
+- Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
-- tICA
+- Review: tICA
   - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
 - Neural Network Potential
   - https://tech.preferred.jp/ja/blog/free-energy-calculation-using-nnp/
@@ -56,6 +56,9 @@ Study notes for me
 - GROMACS
   - Tutorials
     - http://www.mdtutorials.com/gmx/
+- GENESIS
+  - Tutorial
+    - https://www.r-ccs.riken.jp/labs/cbrt/tutorial/
   - Development story
     - https://www.pssj.jp/archives/essay/Es_07/Es_07.html
 - Uniprot
