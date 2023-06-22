@@ -18,6 +18,8 @@ Study notes for me
   - http://computics-material.jp/files/symposium/20130708/abstract/poster/P24_Mitsutake_abstract.pdf
 - Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
+- Markov model lecture written by Noe
+  - http://docs.markovmodel.org/
 - Review: tICA
   - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
 - Neural Network Potential
