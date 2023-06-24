@@ -15,7 +15,7 @@ Study notes for me
 -  Review: Free energy calculation
    -  https://www.jstage.jst.go.jp/article/mssj/17/2/17_83/_pdf/-char/ja
 - RMA: Relaxation mode analysis
-  - http://computics-material.jp/files/symposium/20130708/abstract/poster/P24_Mitsutake_abstract.pdf
+  - https://www.jstage.jst.go.jp/article/mssj/22/4/22_334/_pdf/-char/ja
 - Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
 - Markov model lecture written by Noe
@@ -26,6 +26,8 @@ Study notes for me
   - https://tech.preferred.jp/ja/blog/free-energy-calculation-using-nnp/
   - https://www.biorxiv.org/content/10.1101/2020.07.29.227959v1
   - https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap
+- GPCR
+  - https://bsd.neuroinf.jp/wiki/G%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E5%85%B1%E5%BD%B9%E5%9E%8B%E5%8F%97%E5%AE%B9%E4%BD%93
 
 
 
@@ -48,6 +50,8 @@ Study notes for me
   - https://doi.org/10.1038/s41598-022-07792-2
 - iupacGPT
   - https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae
+- Neural network potential
+  - https://doi.org/10.1016/j.jmat.2022.12.007
 
 
 ## Tools
