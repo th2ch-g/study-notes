@@ -41,7 +41,7 @@ Study notes for me
   - A2A
     - Crystallography of A2A with KW6356 and istradefylline
       - https://molpharm.aspetjournals.org/content/early/2023/03/10/molpharm.122.000633
-  - mGLu1
+  - mGlu1
     - mGlu1 allosteric modulator
       - https://www.science.org/doi/10.1126/science.1249489
 - Review: GPCR
