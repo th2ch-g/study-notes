@@ -28,6 +28,9 @@ Study notes for me
   - https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap
 - GPCR
   - https://bsd.neuroinf.jp/wiki/G%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E5%85%B1%E5%BD%B9%E5%9E%8B%E5%8F%97%E5%AE%B9%E4%BD%93
+- MD paramter
+  - ESP, RESP
+    - https://www.jstage.jst.go.jp/article/ciqs/2016/0/2016_P8/_pdf/-char/ja
 
 
 
