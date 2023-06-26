@@ -21,7 +21,10 @@ Study notes for me
 - Markov model lecture written by Noe
   - http://docs.markovmodel.org/
 - Review: tICA
-  - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
+  - 入門
+    - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
+  - 中級
+    - https://www.ism.ac.jp/editsec/toukei/pdf/62-2-243.pdf
 - Neural Network Potential
   - https://tech.preferred.jp/ja/blog/free-energy-calculation-using-nnp/
   - https://www.biorxiv.org/content/10.1101/2020.07.29.227959v1
