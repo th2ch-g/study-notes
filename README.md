@@ -20,6 +20,9 @@ Study notes for me
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
 - Markov model lecture written by Noe
   - http://docs.markovmodel.org/
+- Review: PCA
+  - Mainly PCA, with NMA, tICA, RMA
+    - https://doi.org/10.3390/j5020021
 - Review: tICA
   - 入門
     - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
@@ -47,6 +50,8 @@ Study notes for me
   - A2A
     - Crystallography of A2A with KW6356 and istradefylline
       - https://molpharm.aspetjournals.org/content/early/2023/03/10/molpharm.122.000633
+    - A2a with Caffein and ZMA
+      - https://pubs.acs.org/doi/10.1021/jp2022049
   - mGlu1
     - mGlu1 allosteric modulator
       - https://www.science.org/doi/10.1126/science.1249489
