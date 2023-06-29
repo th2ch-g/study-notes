@@ -14,26 +14,38 @@ Study notes for me
   - https://doi.org/10.11234/jsbibr.2023.1
 -  Review: Free energy calculation
    -  https://www.jstage.jst.go.jp/article/mssj/17/2/17_83/_pdf/-char/ja
-- RMA: Relaxation mode analysis
-  - https://www.jstage.jst.go.jp/article/mssj/22/4/22_334/_pdf/-char/ja
 - Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
-- Markov model lecture written by Noe
-  - http://docs.markovmodel.org/
-- Review: PCA
-  - Mainly PCA, with NMA, tICA, RMA
-    - https://doi.org/10.3390/j5020021
-- Review: tICA
-  - 入門
-    - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
-  - 中級
-    - https://www.ism.ac.jp/editsec/toukei/pdf/62-2-243.pdf
+- Dynamics analysis method
+  - PCA
+    - ラングランジュの未定乗数法などの観点から
+      - https://laid-back-scientist.com/pca-theory
+    - PCAとその他の手法との比較
+      - https://doi.org/10.3390/j5020021
+  - MSM
+    - Markov model lecture written by Noe
+      - http://docs.markovmodel.org/
+  - tICA
+    - 入門
+      - https://www.jstage.jst.go.jp/article/mssj/13/4/13_161/_pdf/-char/ja
+    - 中級
+      - https://www.ism.ac.jp/editsec/toukei/pdf/62-2-243.pdf
+  - RMA
+    - Review(PhD)
+      - https://www.jstage.jst.go.jp/article/mssj/22/4/22_334/_pdf/-char/ja
 - Neural Network Potential
   - https://tech.preferred.jp/ja/blog/free-energy-calculation-using-nnp/
   - https://www.biorxiv.org/content/10.1101/2020.07.29.227959v1
   - https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap
 - GPCR
-  - https://bsd.neuroinf.jp/wiki/G%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E5%85%B1%E5%BD%B9%E5%9E%8B%E5%8F%97%E5%AE%B9%E4%BD%93
+  - wiki
+    - https://bsd.neuroinf.jp/wiki/G%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E5%85%B1%E5%BD%B9%E5%9E%8B%E5%8F%97%E5%AE%B9%E4%BD%93
+  - Ionic lock
+    - https://pubmed.ncbi.nlm.nih.gov/20106995/
+      - interaction between ARG in TM3(DRY) and negative charge residue in TM6 (D or E)
+  - salt bridge
+    - https://en.wikipedia.org/wiki/Salt_bridge_(protein_and_supramolecular)
+      - In chemistry, a salt bridge is a combination of two non-covalent interactions: hydrogen bonding and ionic bonding (Figure 1). Ion pairing is one of the most important noncovalent forces in chemistry, in biological systems, in different materials and in many applications such as ion pair chromatography.
 - MD paramter
   - ESP, RESP
     - https://www.jstage.jst.go.jp/article/ciqs/2016/0/2016_P8/_pdf/-char/ja
