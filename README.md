@@ -85,6 +85,8 @@ Study notes for me
 - GROMACS
   - Tutorials
     - http://www.mdtutorials.com/gmx/
+  - Manuals
+    - https://manual.gromacs.org/current/index.html
 - GENESIS
   - Tutorial
     - https://www.r-ccs.riken.jp/labs/cbrt/tutorial/
@@ -96,6 +98,8 @@ Study notes for me
 - AMBER
   - Tutorials
     - https://ambermd.org/tutorials/
+  - Manuals
+    - https://ambermd.org/Manuals.php
   - QMMM Unofficial Tutorial
     - https://github.com/CCPBioSim/qmmm-workshop
 - VMD
