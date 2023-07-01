@@ -18,7 +18,10 @@ Study notes for me
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
 - Dynamics analysis method
   - NMA
-    - https://doi.org/10.3390/molecules24183293
+    - Review
+      - https://doi.org/10.3390/molecules24183293
+    - 振動解析再入門
+      - https://yamlab.net/pdf/note-molvib.pdf
   - PCA
     - ラングランジュの未定乗数法などの観点から
       - https://laid-back-scientist.com/pca-theory
