@@ -17,10 +17,12 @@ Study notes for me
 - Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
 - Dynamics analysis method
+  - NMA
+    - https://doi.org/10.3390/molecules24183293
   - PCA
     - ラングランジュの未定乗数法などの観点から
       - https://laid-back-scientist.com/pca-theory
-    - PCAとその他の手法との比較
+    - PCAとその他の手法との比較(NMA, tICA, RMA)
       - https://doi.org/10.3390/j5020021
   - MSM
     - Markov model lecture written by Noe
@@ -49,6 +51,8 @@ Study notes for me
 - MD paramter
   - ESP, RESP
     - https://www.jstage.jst.go.jp/article/ciqs/2016/0/2016_P8/_pdf/-char/ja
+- Boss
+  - https://www.jstage.jst.go.jp/article/mssj/23/1/23_67/_pdf/-char/ja
 
 
 
