@@ -8,8 +8,18 @@ Study notes for me
     - http://www.eccse.kobe-u.ac.jp/assets/images/distance_learning/life_science4/1805c332d8393bdb4c7a4e955ebae56fc48165dd.pdf
   - 分子シミュレーションノート
     - https://masatakaym.github.io/Molecular-Simulation/main.pdf
-- Review: FFM, OFLOOD, PaCS-MD, TBSA
-  - https://www.jstage.jst.go.jp/article/jccj/17/1/17_2017-0055/_pdf/-char/ja 
+- Method of MD simulation
+  - Review: FFM, OFLOOD, PaCS-MD, TBSA
+    - https://www.jstage.jst.go.jp/article/jccj/17/1/17_2017-0055/_pdf/-char/ja
+  - Review: PaCS-MD, TRS
+    - https://www.jstage.jst.go.jp/article/biophys/54/3/54_167/_pdf 
+  - String method
+    - 入門
+      - https://www2.hpci-office.jp/conference/201303/hp120027.pdf
+    - 中級
+      - https://www.jstage.jst.go.jp/article/mssj/16/1/16_29/_pdf/-char/ja
+  - Targeted MD(TMD), Steered MD(SMD)
+    - http://molsci.center.ims.ac.jp/area/2012/papers/2P084_w.pdf
 - Review: Protein Language Model
   - https://doi.org/10.11234/jsbibr.2023.1
 -  Review: Free energy calculation
