@@ -122,6 +122,9 @@ Study notes for me
 - VMD
   - viewer
     - https://qiita.com/TANATY/items/2fc4bd2044bb6c81e8cc
+- PDB
+  - Labels
+    - https://pdbj.org/help/pdb-brief?lang=ja
 
 
 
