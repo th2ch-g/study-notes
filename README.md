@@ -26,6 +26,10 @@ Study notes for me
    -  https://www.jstage.jst.go.jp/article/mssj/17/2/17_83/_pdf/-char/ja
 - Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
+- RISM
+  - 入門
+    - https://www.ssken.gr.jp/MAINSITE/download/newsletter/2012/20120820-sci-1/lecture-02/SSKEN_sci2012-1_yoshida_presentation.pdf
+  - 
 - Dynamics analysis method
   - NMA
     - Review
