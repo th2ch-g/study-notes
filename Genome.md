@@ -21,6 +21,9 @@
   -  https://doi.org/10.1111/pbi.13775
 - Genome assembly of Eutrema salsugineum
   -  https://doi.org/10.3389/fpls.2013.00046
+- Chromosome level and haplotype-resolved assembly of wasabi genome
+  - https://doi.org/10.1038/s41597-023-02356-z
+
 
 ## Review
 - Review: genome informatics

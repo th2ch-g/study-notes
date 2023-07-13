@@ -96,6 +96,9 @@ Study notes for me
   - https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae
 - Neural network potential
   - https://doi.org/10.1016/j.jmat.2022.12.007
+- Modeling
+  - OPC
+    - https://pubs.acs.org/doi/10.1021/jz501780a
 
 
 ## Tools
