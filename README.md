@@ -29,7 +29,8 @@ Study notes for me
 - RISM
   - 入門
     - https://www.ssken.gr.jp/MAINSITE/download/newsletter/2012/20120820-sci-1/lecture-02/SSKEN_sci2012-1_yoshida_presentation.pdf
-  - 
+    - https://www.jstage.jst.go.jp/article/biophys/51/5/51_5_222/_supplement/51_222_1.pdf
+    - https://www.sbj.or.jp/wp-content/uploads/file/sbj/9308/9308_yomoyama.pdf
 - Dynamics analysis method
   - NMA
     - Review
