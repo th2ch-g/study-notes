@@ -11,8 +11,11 @@ Study notes for me
 - Method of MD simulation
   - Review: FFM, OFLOOD, PaCS-MD, TBSA
     - https://www.jstage.jst.go.jp/article/jccj/17/1/17_2017-0055/_pdf/-char/ja
-  - Review: PaCS-MD, TRS
-    - https://www.jstage.jst.go.jp/article/biophys/54/3/54_167/_pdf 
+  - TRS
+    - 初級
+      - https://www.jstage.jst.go.jp/article/biophys/54/3/54_167/_pdf
+    - 中級
+      - https://www.jstage.jst.go.jp/article/biophys/46/5/46_5_275/_pdf/-char/ja
   - String method
     - 入門
       - https://www2.hpci-office.jp/conference/201303/hp120027.pdf
@@ -31,6 +34,8 @@ Study notes for me
     - https://www.ssken.gr.jp/MAINSITE/download/newsletter/2012/20120820-sci-1/lecture-02/SSKEN_sci2012-1_yoshida_presentation.pdf
     - https://www.jstage.jst.go.jp/article/biophys/51/5/51_5_222/_supplement/51_222_1.pdf
     - https://www.sbj.or.jp/wp-content/uploads/file/sbj/9308/9308_yomoyama.pdf
+  - OZ方程式
+    - https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%BC%E3%83%AB%E3%83%8B%E3%82%B1%E6%96%B9%E7%A8%8B%E5%BC%8F
 - Dynamics analysis method
   - NMA
     - Review
