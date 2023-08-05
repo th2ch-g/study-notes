@@ -78,6 +78,12 @@ Study notes for me
   - https://www.jstage.jst.go.jp/article/mssj/23/1/23_67/_pdf/-char/ja
 - Cell biology by the number
   - http://book.bionumbers.org/
+- 酵素の命名法(EC)
+  - https://jsag.jp/toushitsu/2745/
+- Review: QMMM
+  - https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200802019
+- Review: CPMD
+  - https://www.jstage.jst.go.jp/article/mssj/17/3/17_167/_pdf/-char/ja
 
 
 
