@@ -80,8 +80,11 @@ Study notes for me
   - http://book.bionumbers.org/
 - 酵素の命名法(EC)
   - https://jsag.jp/toushitsu/2745/
-- Review: QMMM
-  - https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200802019
+- QMMM
+  - Review
+    - https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200802019
+  - QM, 遷移金属
+    - http://www.eccse.kobe-u.ac.jp/assets/images/distance_learning/life_science3/40ff60abe4bbed27c54c9a7e552339afae381dca.pdf
 - Review: CPMD
   - https://www.jstage.jst.go.jp/article/mssj/17/3/17_167/_pdf/-char/ja
 
