@@ -116,6 +116,13 @@ Study notes for me
 - Modeling
   - OPC
     - https://pubs.acs.org/doi/10.1021/jz501780a
+- QMMM
+  - Chorismate mutase
+    - free energy
+      - https://pubs.acs.org/doi/full/10.1021/ja0452830
+- Chugai
+  - Anti-body LSTM
+    - https://www.nature.com/articles/s41598-021-85274-7#Sec8
 
 
 ## Tools
