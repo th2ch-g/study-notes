@@ -29,6 +29,8 @@ Study notes for me
    -  https://www.jstage.jst.go.jp/article/mssj/17/2/17_83/_pdf/-char/ja
 - Review: 祖先型設計法
   - https://www.jstage.jst.go.jp/article/biophys/53/3/53_128/_pdf
+- 逆化学合成経路探索
+  - https://www.slideshare.net/pfi/deep-learning-1012021
 - RISM
   - 入門
     - https://www.ssken.gr.jp/MAINSITE/download/newsletter/2012/20120820-sci-1/lecture-02/SSKEN_sci2012-1_yoshida_presentation.pdf
@@ -117,10 +119,12 @@ Study notes for me
 - Modeling
   - OPC
     - https://pubs.acs.org/doi/10.1021/jz501780a
-- QMMM
-  - Chorismate mutase
+- Enzyme
+  - QMMM Chorismate mutase
     - free energy
       - https://pubs.acs.org/doi/full/10.1021/ja0452830
+  - CALB
+    - https://pubs.acs.org/doi/10.1021/acs.jpcb.3c02041
 - Chugai
   - Anti-body LSTM
     - https://www.nature.com/articles/s41598-021-85274-7#Sec8
