@@ -84,6 +84,9 @@ Study notes for me
   - https://www.jstage.jst.go.jp/article/mssj/23/1/23_67/_pdf/-char/ja
 - Cell biology by the number
   - http://book.bionumbers.org/
+- alpha-sheet
+  - review
+    - https://www.sciencedirect.com/science/article/abs/pii/S1047847721000435
 - 酵素の命名法(EC)
   - https://jsag.jp/toushitsu/2745/
 - QMMM
@@ -109,6 +112,9 @@ Study notes for me
 ## Papers
 - AlphaFill
   - https://doi.org/10.1038/s41592-022-01685-y
+- tICA
+  - About lag-time
+    - https://pubs.acs.org/doi/10.1021/acs.jctc.1c00273
 - GPCR
   - ICL
     - ICL3 regulates activation and inactivation under dynamic equilibrium
@@ -118,6 +124,8 @@ Study notes for me
       - https://molpharm.aspetjournals.org/content/early/2023/03/10/molpharm.122.000633
     - A2a with Caffein and ZMA
       - https://pubs.acs.org/doi/10.1021/jp2022049
+    - Istradefylline using ONIOM
+      - https://pubs.acs.org/doi/10.1021/acs.jcim.3c00424
   - mGlu1
     - mGlu1 allosteric modulator
       - https://www.science.org/doi/10.1126/science.1249489
