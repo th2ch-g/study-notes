@@ -60,6 +60,10 @@ Study notes for me
   - RMA
     - Review(PhD)
       - https://www.jstage.jst.go.jp/article/mssj/22/4/22_334/_pdf/-char/ja
+    - Review(method)
+      - https://www.ism.ac.jp/editsec/toukei/pdf/62-2-221.pdf
+    - Review(paper)
+      - https://link.springer.com/article/10.1007/s12551-018-0406-7
 - Neural Network Potential
   - https://tech.preferred.jp/ja/blog/free-energy-calculation-using-nnp/
   - https://www.biorxiv.org/content/10.1101/2020.07.29.227959v1
@@ -91,6 +95,15 @@ Study notes for me
     - https://www.jstage.jst.go.jp/article/mssj/17/3/17_167/_pdf/-char/ja
   - Review: DFTB
     - https://www.jstage.jst.go.jp/article/mssj/20/1/20_7/_pdf/-char/ja
+  - DFT
+    - Chemstation
+      - https://www.chem-station.com/blog/2014/12/dft.html
+      - https://www.chem-station.com/blog/2015/07/DFT-2.html
+      - https://www.chem-station.com/blog/2016/06/dft3.html
+    - slideshare
+      - https://www.slideshare.net/dc1394/ss-26378208
+  - FMO
+    - https://www.cc.u-tokyo.ac.jp/public/VOL8/special/7.pdf
 
 
 ## Papers
