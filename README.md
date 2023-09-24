@@ -105,6 +105,8 @@ Study notes for me
       - https://www.chem-station.com/blog/2016/06/dft3.html
     - slideshare
       - https://www.slideshare.net/dc1394/ss-26378208
+    - Review
+      - https://www.jstage.jst.go.jp/article/oubutsu/86/8/86_720/_pdf
   - FMO
     - https://www.cc.u-tokyo.ac.jp/public/VOL8/special/7.pdf
 
