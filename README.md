@@ -128,6 +128,13 @@ Study notes for me
       - https://pubs.acs.org/doi/10.1021/jp2022049
     - Istradefylline using ONIOM
       - https://pubs.acs.org/doi/10.1021/acs.jcim.3c00424
+    - Na+, A2a, SuMD
+      - https://www.mdpi.com/1420-3049/24/15/2752
+    - Microswitches(ioniclock...)
+      - https://doi.org/10.1371/journal.pcbi.1004044
+    - chi1 of Y7.53 in NPxxY
+      - https://doi.org/10.1038/ncomms5733
+    -
   - mGlu1
     - mGlu1 allosteric modulator
       - https://www.science.org/doi/10.1126/science.1249489
