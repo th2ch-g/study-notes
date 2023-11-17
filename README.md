@@ -132,7 +132,7 @@ Study notes for me
       - https://www.mdpi.com/1420-3049/24/15/2752
     - Microswitches(ioniclock...)
       - https://doi.org/10.1371/journal.pcbi.1004044
-    - chi1 of Y7.53 in NPxxY
+    - chi1, chi2 of Y7.53 in NPxxY
       - https://doi.org/10.1038/ncomms5733
     -
   - mGlu1
@@ -158,6 +158,9 @@ Study notes for me
 - Chugai
   - Anti-body LSTM
     - https://www.nature.com/articles/s41598-021-85274-7#Sec8
+
+- MscK, Cryo-EM
+  - https://doi.org/10.1038/s41467-022-34737-0
 
 
 ## Tools
